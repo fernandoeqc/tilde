@@ -1,0 +1,74 @@
+
+@font-face {
+    font-family: "Unscii", monospace;
+    src: url("https://omnius.zone/files/unscii.ttf");
+}
+
+body{
+		background-size: cover;
+		background-color: rgba(27, 24, 33, 0.95);
+}
+
+div{
+		margin:64px auto;
+		width:768px;
+		color:#f0a000;
+		font-family:"monospace";
+		font-size:120%;
+		font-weight:300;
+		line-height:1.333;
+}
+
+small{
+		font-size:8pt;
+		margin:1em 0em 0em 2em;
+		display:inline-block;
+}
+
+span{
+		color:white;
+		font-size:8pt;
+		margin:1em 0em 0em 0em;
+}
+
+a{
+		color:#00fe00;
+		text-decoration:none;
+}
+
+a:hover{
+    border-bottom: 1px solid #f0a000;
+}
+
+b{
+		font-weight:500;
+}
+
+h1, h2{
+		margin-top:3em;
+		font-family: 'Unscii';
+		color: white;
+}
+
+h3{
+		margin-top:3em;
+		font-size:12pt;
+		font-weight:700;
+		color: white;
+}
+
+img{
+		border:0px;
+		display:block;
+		margin:auto;
+}
+
+ul{
+		margin:0px;
+		padding-left:2em;
+}
+
+li{
+		list-style-type:circle;
+		margin-bottom:1em;
+}
